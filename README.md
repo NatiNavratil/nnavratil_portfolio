@@ -1,2 +1,2 @@
-# nnavratil-s_portfolio
+# nnavratil_portfolio
 Data Analyst Portfolio
